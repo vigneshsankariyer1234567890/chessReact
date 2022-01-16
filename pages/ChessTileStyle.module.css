@@ -1,0 +1,16 @@
+.tile {
+    width: 100px;
+    height: 100px;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    color: #ebecd0;
+}
+
+.dark {
+    width: 100px;
+    height: 100px;
+    color: #779556;
+}
