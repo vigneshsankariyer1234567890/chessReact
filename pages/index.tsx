@@ -3,7 +3,7 @@ import MyApp from './_app';
 
 const Home: NextPage = () => {
   return (
-    <div id="MyApp">
+    <div id="MyApp" >
       <MyApp />
     </div>
   )

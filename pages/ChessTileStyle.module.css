@@ -6,11 +6,11 @@
 .light {
     width: 100px;
     height: 100px;
-    color: #ebecd0;
+    background-color: #ebecd0;
 }
 
 .dark {
     width: 100px;
     height: 100px;
-    color: #779556;
+    background-color: #779556;
 }
