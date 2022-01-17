@@ -1,5 +1,5 @@
 import { Tile, TileColour } from '../src/board/Tile';
-import styles from "../pages/ChessTileStyle.module.css";
+import styles from "../styles/ChessTileStyle.module.css";
 
 export interface TProps {
     chessTile: Tile,

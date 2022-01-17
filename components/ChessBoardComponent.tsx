@@ -1,6 +1,6 @@
 import ChessBoard from "../src/board/ChessBoard";
 import ChessTileComponent, { TProps } from "./ChessTileComponent";
-import styles from "../pages/ChessBoardStyle.module.css";
+import styles from "../styles/ChessBoardStyle.module.css";
 
 export interface BProps {
     chessBoard: ChessBoard,
